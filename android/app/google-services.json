@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190702763828",
+    "project_id": "vrcenter-repair-tracker",
+    "storage_bucket": "vrcenter-repair-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190702763828:android:c5bba09bc7bf2028dbef61",
+        "android_client_info": {
+          "package_name": "com.example.vrc_repairs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQzz3FbSf2xBOrGLfg9UHeYr30c-vfNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
